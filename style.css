@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 100px;
+    background-color: red;
+    color: black;
+}
+
+.ingred {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    background-color: aqua;
+    color: yellow;
+}
+
+ul {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    color: red  ;
+}
+
+ol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    border-style: dashed;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    color: greenyellow;
+}
+
+.knapp {
+    padding: 6px 6px;
+    background-color: pink;
+    border: 2px outset buttonborder;
+    border-radius: 5px;
+    
+}
